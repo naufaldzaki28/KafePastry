@@ -3,22 +3,34 @@
 Aplikasi Android "Kafe & Pastry" adalah aplikasi pemesanan makanan dan minuman berbasis *native* Android menggunakan Kotlin dengan skema warna kopi yang elegan (Coffee-themed Palette). Proyek ini dikembangkan untuk memenuhi tugas mata kuliah Pemrograman Aplikasi Mobile (PAM).
 
 ## 📸 Tampilan Aplikasi (Screenshots)
-- **Splash Screen**
-<img width="375" height="828" alt="Screenshot 2026-11-08 085306" src="https://github.com/user-attachments/assets/341270fb-431a-4bf5-85c1-0008ab736f0b" />
-- **Sign Up**
-<img width="372" height="831" alt="image" src="https://github.com/user-attachments/assets/57f41545-765f-440e-a3fa-2485fd7e084f" />
-- **Register**
-<img width="375" height="828" alt="image" src="https://github.com/user-attachments/assets/fbd2585e-9be7-4459-a410-7714e1da3732" />
-- **Log in**
-<img width="370" height="827" alt="image" src="https://github.com/user-attachments/assets/41f4acc4-5f48-4e78-9496-bce2f366e052" />
-- **Home Menu Interaktif**
-<img width="370" height="822" alt="image" src="https://github.com/user-attachments/assets/79b634d4-12e9-4df4-bdec-d492cc40faaa" />
-- **Order & Checkout**
-- <img width="373" height="841" alt="image" src="https://github.com/user-attachments/assets/a46d5183-0a5e-4e3b-a3ee-137c053bc81e" />
-- **Success Confirmation**
-<img width="372" height="832" alt="image" src="https://github.com/user-attachments/assets/ac714581-61c0-44b8-9733-daf758db50b4" />
-- **Profile User**
-<img width="375" height="835" alt="image" src="https://github.com/user-attachments/assets/2f995c72-f88f-4606-a68f-81e712166458" />
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Splash Screen</b></td>
+      <td align="center"><b>Sign Up</b></td>
+      <td align="center"><b>Login</b></td>
+      <td align="center"><b>Register</b></td>
+    </tr>
+    <tr>
+      <td><img src="<img width="375" height="828" alt="Screenshot 2026-11-08 085306" src="https://github.com/user-attachments/assets/341270fb-431a-4bf5-85c1-0008ab736f0b" />" width="200" /></td>
+      <td><img src="<img width="372" height="831" alt="image" src="https://github.com/user-attachments/assets/57f41545-765f-440e-a3fa-2485fd7e084f" />" width="200" /></td>
+      <td><img src="<img width="375" height="828" alt="image" src="https://github.com/user-attachments/assets/fbd2585e-9be7-4459-a410-7714e1da3732" />" width="200" /></td>
+      <td><img src="<img width="370" height="827" alt="image" src="https://github.com/user-attachments/assets/41f4acc4-5f48-4e78-9496-bce2f366e052" />" width="200" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Home Menu</b></td>
+      <td align="center"><b>Order</b></td>
+      <td align="center"><b>Success</b></td>
+      <td align="center"><b>Profile</b></td>
+    </tr>
+    <tr>
+      <td><img src="<img width="370" height="822" alt="image" src="https://github.com/user-attachments/assets/79b634d4-12e9-4df4-bdec-d492cc40faaa" />" width="200" /></td>
+      <td><img src=" <img width="373" height="841" alt="image" src="https://github.com/user-attachments/assets/a46d5183-0a5e-4e3b-a3ee-137c053bc81e" />" width="200" /></td>
+      <td><img src="<img width="372" height="832" alt="image" src="https://github.com/user-attachments/assets/ac714581-61c0-44b8-9733-daf758db50b4" />" width="200" /></td>
+      <td><img src="<img width="375" height="835" alt="image" src="https://github.com/user-attachments/assets/2f995c72-f88f-4606-a68f-81e712166458" />" width="200" /></td>
+    </tr>
+  </table>
+</p>
 
 ## ✨ Fitur Utama
 1. **Splash Screen & Start Page**: Halaman pembuka dengan logo elegan dan animasi transisi.
