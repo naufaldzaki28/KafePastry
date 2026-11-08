@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SuccessActivity">
+
+    <!-- Background Foto Konsisten -->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/tesss"
+        android:alpha="0.6"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Card Container Konfirmasi Pesanan -->
+    <androidx.cardview.widget.CardView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="32dp"
+        app:cardBackgroundColor="#CCFFFFFF"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="6dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:padding="28dp">
+
+            <!-- Sapaan Nama Dinamis -->
+            <TextView
+                android:id="@+id/txtHaloNama"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Halo Nama,"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:textColor="#3E2723"
+                android:layout_marginBottom="24dp"
+                android:gravity="center" />
+
+            <!-- Lingkaran Hijau 'OK' Sesuai Wireframe -->
+            <androidx.cardview.widget.CardView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                app:cardBackgroundColor="#A8E6CF"
+                app:cardCornerRadius="40dp"
+                app:cardElevation="0dp"
+                android:layout_marginBottom="24dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Done!"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="#2D5A27"
+                    android:gravity="center" />
+            </androidx.cardview.widget.CardView>
+
+            <!-- Pesan Informasi Pengiriman -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Terima kasih sudah memesan tunggu aja sebentar kurir kami segera mengantarkan pesananmu!"
+                android:textSize="14sp"
+                android:textColor="#5D4037"
+                android:gravity="center"
+                android:layout_marginBottom="32dp" />
+
+            <!-- Tombol Oke (Kembali ke Home) -->
+            <Button
+                android:id="@+id/btnOke"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:text="Oke"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:backgroundTint="#3E2723"
+                android:textColor="#FFFFFF"
+                app:cornerRadius="10dp" />
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
