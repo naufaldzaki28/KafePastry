@@ -8,14 +8,18 @@ Aplikasi Android "Kafe & Pastry" adalah aplikasi pemesanan makanan dan minuman b
     <tr>
       <td align="center"><b>Splash Screen</b></td>
       <td align="center"><b>Sign Up</b></td>
-      <td align="center"><b>Login</b></td>
       <td align="center"><b>Register</b></td>
+      <td align="center"><b>Login</b></td>
     </tr>
     <tr>
-      <td><img src="<img width="375" height="828" alt="Screenshot 2026-11-08 085306" src="https://github.com/user-attachments/assets/341270fb-431a-4bf5-85c1-0008ab736f0b" />" width="200" /></td>
-      <td><img src="<img width="372" height="831" alt="image" src="https://github.com/user-attachments/assets/57f41545-765f-440e-a3fa-2485fd7e084f" />" width="200" /></td>
-      <td><img src="<img width="375" height="828" alt="image" src="https://github.com/user-attachments/assets/fbd2585e-9be7-4459-a410-7714e1da3732" />" width="200" /></td>
-      <td><img src="<img width="370" height="827" alt="image" src="https://github.com/user-attachments/assets/41f4acc4-5f48-4e78-9496-bce2f366e052" />" width="200" /></td>
+      <td><img width="375" height="828" alt="Screenshot 2026-11-08 085306" src="https://github.com/user-attachments/assets/edab503b-a4db-4d5b-828a-c47a966546ee" />
+</td>
+      <td><img width="372" height="831" alt="Screenshot 2026-11-08 085448" src="https://github.com/user-attachments/assets/e2952910-0239-4d1c-b4c6-b8aee15a6eb1" />
+</td>
+      <td><img width="375" height="828" alt="Screenshot 2026-11-08 085609" src="https://github.com/user-attachments/assets/fa0c0a15-e291-4cc0-8698-cd20430906c5" />
+ </td>
+      <td><img width="370" height="827" alt="Screenshot 2026-11-08 085711" src="https://github.com/user-attachments/assets/13624016-5625-4688-a800-45388c5b1c87" />
+/></td>
     </tr>
     <tr>
       <td align="center"><b>Home Menu</b></td>
@@ -24,10 +28,14 @@ Aplikasi Android "Kafe & Pastry" adalah aplikasi pemesanan makanan dan minuman b
       <td align="center"><b>Profile</b></td>
     </tr>
     <tr>
-      <td><img src="<img width="370" height="822" alt="image" src="https://github.com/user-attachments/assets/79b634d4-12e9-4df4-bdec-d492cc40faaa" />" width="200" /></td>
-      <td><img src=" <img width="373" height="841" alt="image" src="https://github.com/user-attachments/assets/a46d5183-0a5e-4e3b-a3ee-137c053bc81e" />" width="200" /></td>
-      <td><img src="<img width="372" height="832" alt="image" src="https://github.com/user-attachments/assets/ac714581-61c0-44b8-9733-daf758db50b4" />" width="200" /></td>
-      <td><img src="<img width="375" height="835" alt="image" src="https://github.com/user-attachments/assets/2f995c72-f88f-4606-a68f-81e712166458" />" width="200" /></td>
+      <td><img width="370" height="822" alt="Screenshot 2026-11-08 085746" src="https://github.com/user-attachments/assets/b7995f2f-ba04-46c7-85a9-bab3329fba54" />
+</td>
+      <td><img width="373" height="841" alt="Screenshot 2026-11-08 085818" src="https://github.com/user-attachments/assets/daebb5ac-a5c8-46b2-a048-8620290b2e7f" />
+</td>
+      <td><img width="372" height="832" alt="Screenshot 2026-11-08 085841" src="https://github.com/user-attachments/assets/e8b5a422-e370-4328-9af0-360e35e68e9a" />
+</td>
+      <td><img width="375" height="835" alt="Screenshot 2026-11-08 085929" src="https://github.com/user-attachments/assets/63162696-a91a-4c53-a5a9-1d5698db911e" />
+</td>
     </tr>
   </table>
 </p>
